@@ -18,7 +18,7 @@
 	width: 208px;
 	padding: 110px 10px 0;
 	height: 93px;
-	background: url(../images/tooplate_site_header.png) no-repeat top
+	background: url(../images/site_header.png) no-repeat top
 }
 
 #header h1 { 
@@ -31,7 +31,7 @@
 	width: 180px; 
 	height: 23px; 
 	margin: 0 auto; 
-	background: url(../images/tooplate_logo.png) top center no-repeat; 
+	background: url(../images/logo.png) top center no-repeat; 
 	text-indent: -10000px; 
 }
 
@@ -46,7 +46,7 @@
 	width: 502px;
 	height: 576px;	
 	padding: 10px;
-	background: url(../images/tooplate_main.png) no-repeat top left
+	background: url(../images/main.png) no-repeat top left
 }
 
 .content_section {
@@ -110,12 +110,12 @@ ul.navigation a {
     text-decoration: none;
 	text-align: center;
 	color: #000;
-	background: url(../images/tooplate_menu.png) no-repeat
+	background: url(../images/menu.png) no-repeat
 }
 
 ul.navigation a.last {
 	height: 98px;
-	background: url(../images/tooplate_menu_last.png) no-repeat top left;
+	background: url(../images/menu_last.png) no-repeat top left;
 }
 
 ul.navigation a:hover, ul.navigation a.selected {
