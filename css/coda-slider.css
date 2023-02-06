@@ -3,13 +3,13 @@
 	width: 100%;
 }
 
-#tooplate_wrapper {
+#wrapper {
 	width: 800px;
 	padding: 0 10px;
 	margin: 0 auto;
 }
 
-#tooplate_sidebar {
+#sidebar {
 	float: left;	
 	width: 228px;
 }
